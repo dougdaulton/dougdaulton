@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-17T06:20:13+00:00",
+  "generated_at": "2026-06-17T07:04:53+00:00",
   "user": "dougdaulton",
-  "tier": 1,
-  "disclosure": "Resolved fixes are co-developed with AI assistance; the problem identification, characterization, and direction are the author's.",
+  "disclosure": "Most fixes are co-developed with AI coding agents (currently Claude, exclusively). The problem identification, scoping, and direction to completion are the author's.",
   "summary": {
     "scope": "external",
-    "landed_external": 0,
-    "in_flight_external": 5,
+    "reported_total": 3,
+    "submitted_total": 2,
+    "merged_external": 0,
+    "in_progress_external": 5,
     "decided_external": 0,
     "adoption_rate_external": null,
     "reported": {
-      "landed": 0,
+      "merged": 0,
       "pending": 3,
-      "closed_not_landed": 0,
-      "not_planned": 0
+      "closed_not_merged": 0
     },
-    "resolved": {
-      "landed": 0,
+    "submitted": {
+      "merged": 0,
       "pending": 2,
       "closed_unmerged": 0
     },
@@ -31,11 +31,11 @@
       "external": true,
       "created_at": "2026-06-13T13:02:08Z",
       "closed_at": null,
-      "role": "resolved",
+      "role": "submitted",
       "kind": "pr",
       "merged_at": null,
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": true
     },
     {
@@ -46,11 +46,11 @@
       "external": true,
       "created_at": "2026-06-10T23:44:46Z",
       "closed_at": null,
-      "role": "resolved",
+      "role": "submitted",
       "kind": "pr",
       "merged_at": null,
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": true
     },
     {
@@ -73,7 +73,7 @@
         }
       ],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -89,7 +89,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -105,7 +105,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -121,7 +121,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -137,7 +137,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -153,7 +153,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -169,7 +169,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -185,7 +185,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -201,7 +201,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -217,7 +217,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -233,7 +233,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -249,7 +249,7 @@
       "state_reason": "REOPENED",
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -265,7 +265,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -281,7 +281,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -297,7 +297,7 @@
       "state_reason": null,
       "fix_prs": [],
       "outcome": "pending",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -313,7 +313,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -329,7 +329,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -345,7 +345,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -361,7 +361,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -377,7 +377,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -393,7 +393,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -409,7 +409,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -425,7 +425,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -441,7 +441,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -457,7 +457,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -473,7 +473,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -489,7 +489,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -505,7 +505,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -521,7 +521,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -537,7 +537,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -553,7 +553,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -569,7 +569,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -585,7 +585,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -601,7 +601,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -617,7 +617,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -633,7 +633,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -649,7 +649,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -665,7 +665,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -681,7 +681,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -697,7 +697,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -713,7 +713,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -729,7 +729,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -745,7 +745,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -761,7 +761,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -777,7 +777,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -793,7 +793,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -809,7 +809,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -825,7 +825,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -841,7 +841,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -857,7 +857,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -873,7 +873,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -889,7 +889,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -905,7 +905,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -921,7 +921,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -937,7 +937,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -953,7 +953,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -969,7 +969,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -985,7 +985,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1001,7 +1001,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1017,7 +1017,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1033,7 +1033,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1049,7 +1049,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1065,7 +1065,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1081,7 +1081,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1097,7 +1097,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1113,7 +1113,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1129,7 +1129,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1145,7 +1145,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1161,7 +1161,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1177,7 +1177,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1193,7 +1193,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1209,7 +1209,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1225,7 +1225,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1241,7 +1241,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1257,7 +1257,7 @@
       "state_reason": "COMPLETED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1273,7 +1273,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     },
     {
@@ -1289,7 +1289,7 @@
       "state_reason": "NOT_PLANNED",
       "fix_prs": [],
       "outcome": "closed",
-      "landed": false,
+      "merged": false,
       "ai_assisted": false
     }
   ]
